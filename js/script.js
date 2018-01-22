@@ -35,18 +35,9 @@ $(document).ready(function(){
     let pointStyle = new ol.style.Style({
         image: image
     });
-    let vectorSource = new ol.source.Vector({
-        format: new ol.format.GeoJSON(),
-        url: 'http://localhost:8000/json/german_airports.geojson'
-    });
     let styleFunction = function(feature) {
         return pointStyle;
     };
-    vectorLayer = new ol.layer.Vector({
-        source: vectorSource,
-        style: styleFunction
-    });
-    map.addLayer(vectorLayer);
 
     
     //TODO: add code here
