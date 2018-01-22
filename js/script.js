@@ -21,6 +21,7 @@ $(document).ready(function(){
             bingLayer
         ],
         view: new ol.View({
+            //Somewhere in Germany
             center: ol.proj.fromLonLat([8.66, 48.88]),
             zoom: 5
         })
@@ -47,20 +48,7 @@ $(document).ready(function(){
     });
     map.addLayer(vectorLayer);
 
-    $('#load-data').on('click', function() {
-        console.log('pulling data');
-        $.getJSON('http://localhost:8000/json/german_airports.geojson', {}).done(function(json) {
-            for (var i=0; i<json.features.length; i++) {
-                $('#airportList').append('<li>' + json.features[i].properties.dataField + '</li>');
-            }
-        });
-    });
-
-    map.on('click', function(event) {
-        map.forEachFeatureAtPixel(event.pixel, function(feature,layer) {
-            $('#airportInfo').empty();
-            $('#airportInfo').append(`<div id="airportList"><h3>${feature.get('locationType')}</h3><p>ICAO: ${feature.get('icao')}</p><p>Location: ${feature.get('dataField')}, ${feature.get('country')}</p><p>Altitude: ${feature.get('alt')}</p><p>Time Zone: ${feature.get('tz')}</p></div>`);
-        });
-    });
+    
+    //TODO: add code here
 
 });
