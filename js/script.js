@@ -4,21 +4,13 @@ $(document).ready(function(){
         source: new ol.source.OSM(),
         visible: true
     });
-    let bingLayer = new ol.layer.Tile({
-        visible: true,
-        preload: Infinity,
-        source: new ol.source.BingMaps({
-            key: 'AsJ83NnvqsJdSmURSKt3ySErannO79P9g0V-AeoA1Ojc8dc60ogLqMtb1FL2DQrG',
-            imagerySet: 'Road'
-        })
-    });
+
     let vectorLayer;
 
     let map = new ol.Map({
         target: 'mapPlaceholder',
         layers: [
-            osmLayer,
-            bingLayer
+            osmLayer
         ],
         view: new ol.View({
             //Somewhere in Germany
@@ -27,19 +19,17 @@ $(document).ready(function(){
         })
     });
 
-    let image = new ol.style.Circle({
-        radius: 5,
-        fill: null,
-        stroke: new ol.style.Stroke({color: 'red', width: 1})
-    });
     let pointStyle = new ol.style.Style({
-        image: image
+        image: new ol.style.Circle({
+            radius: 5,
+            fill: null,
+            stroke: new ol.style.Stroke({color: 'red', width: 1})
+        })
     });
     let styleFunction = function(feature) {
         return pointStyle;
     };
 
-    
     //TODO: add code here
 
 });
