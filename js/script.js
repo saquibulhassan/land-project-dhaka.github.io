@@ -32,8 +32,8 @@ $(document).ready(function(){
             anchor: [1, 1],
             anchorXUnits: 'fraction',
             anchorYUnits: 'fraction',
-            src:  "pointer.png",
-            scale: 0.25,
+            src:  "pointer_red.png",
+            scale: 0.35,
             opacity: 1
         })
     });
