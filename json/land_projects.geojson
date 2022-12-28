@@ -1,0 +1,491 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+        {
+            "type":"Feature",
+            "properties":{
+                "id":1,
+                "name":"Babul Nagar - I S Builder",
+                "low_price":"n/a",
+                "high_price":"n/a",
+                "distance_km":"10",
+                "distance_from":"Gabtoli",
+                "address":"House-02, Road-11, Shakertek, Mohammadpur",
+                "phone":"01765 020 605",
+                "web":"https://www.facebook.com/isbuilderbd"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.31088143587111, 23.817208696287878]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":2,
+                "name":"North South Green City",
+                "low_price":"3",
+                "high_price":"15",
+                "distance_km":"8",
+                "distance_from":"Jalshiri Central Park",
+                "address":"Tower Hamlet (Level-11th, A&B), 16 Kamal Ataturk Avenue, Banani",
+                "phone":"01769 920 980",
+                "web":"http://www.northsouthgroupbd.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.55366056615598, 23.777548164551753]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":3,
+                "name":"Civic Real Estate Ltd",
+                "low_price":"10",
+                "high_price":"16",
+                "distance_km":"7",
+                "distance_from":"Kanchan Bridge",
+                "address":"House 4/6, Road 9, Baridhara J Block 1212 Dhaka, Dhaka Division, Bangladesh",
+                "phone":"01907 110 810",
+                "web":"https://www.civicbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.50256206888342, 23.87871440934075]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":4,
+                "name":"Pine City Purbachal",
+                "low_price":"6",
+                "high_price":"-",
+                "distance_km":"10",
+                "distance_from":"Kanchan Bridge",
+                "address":"House#106,(Level-4th & 5th), Road-12, Block-E, Banani",
+                "phone":"01404 441 802",
+                "web":"https://www.pinecitybd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.48908992084596, 23.901274916647214]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":5,
+                "name":"Purbachal Chayabithi",
+                "low_price":"10.5",
+                "high_price":"20",
+                "distance_km":"3",
+                "distance_from":"Kanchan Bridge",
+                "address":"Jabbar Tower, House# 42 (12th & 15th Floor), Road# 135, Gulshan-1, Dhaka-1212",
+                "phone":"01841 414 545",
+                "web":"https://www.primeassetdl.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.52957933115495, 23.86078188147805]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":6,
+                "name":"Purbachal Premium City",
+                "low_price":"7",
+                "high_price":"10",
+                "distance_km":"9",
+                "distance_from":"Jalshiri Central Park",
+                "address":"House # 476, Road # 32, 1st Floor, New DOHS, Mohakhali",
+                "phone":"01958 158 882",
+                "web":"http://www.premiumgroupbd.com/ppc/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.57660257646904, 23.777357059903593]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":7,
+                "name":"Purbachal Premium Town",
+                "low_price":"3.5",
+                "high_price":"-",
+                "distance_km":"6",
+                "distance_from":"Kanchan Bridge",
+                "address":"Gulshan Grace (5th Floor), House#08, Road # South Avenue, Gulshan-1, Dhaka, Bangladesh",
+                "phone":"01322 858 275",
+                "web":"http://premiumholdingsbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.55680206613332, 23.885851349845108]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":8,
+                "name":"Purbachal Premium Garden",
+                "low_price":"10.5",
+                "high_price":"-",
+                "distance_km":"5",
+                "distance_from":"Kanchan Bridge",
+                "address":"Gulshan Grace (5th Floor), House#08, Road # South Avenue, Gulshan-1, Dhaka, Bangladesh",
+                "phone":"01322 858 275",
+                "web":"http://premiumholdingsbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.5196171601072, 23.870558977119366]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":9,
+                "name":"Navana Highland",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"8",
+                "distance_from":"Kanchan Bridge",
+                "address":"-",
+                "phone":"01847 214 016",
+                "web":"https://navana-realestate.com/project/navana-highland"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.49858075951863, 23.887398286952426]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":10,
+                "name":"Platinum City",
+                "low_price":"7",
+                "high_price":"11",
+                "distance_km":"9",
+                "distance_from":"Kanchan Bridge",
+                "address":"House# 25, Flat# A2, B2, C2, Road# 47 Gulshan Circle – 2, Dhaka – 1212",
+                "phone":"01755 555 456",
+                "web":"http://platinumgroup.com.bd/Home/PlatinumCity"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.6386421470673, 23.851934912886566]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":11,
+                "name":"Purbachal Hill City",
+                "low_price":"13",
+                "high_price":"17",
+                "distance_km":"6",
+                "distance_from":"Kanchan Bridge",
+                "address":"House- 147,Road-13/B,Block-E Banani,Dhaka",
+                "phone":"01978 092 241",
+                "web":"https://purbachal-hill-city.business.site/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.50417249675672, 23.875121966648642]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":12,
+                "name":"Purbachal Avijat Valley",
+                "low_price":"7",
+                "high_price":"-",
+                "distance_km":"5",
+                "distance_from":"Kanchan Bridge",
+                "address":"Banani ,Block no-02,Nam Village,House no-06(5th Floor)",
+                "phone":"09611 656 035",
+                "web":"https://shohozpropertiesltd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.5359292631378, 23.880053698709105]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":13,
+                "name":"Citymead Purbachal Valley",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"4",
+                "distance_from":"Kanchan Bridge",
+                "address":"House # 103, Level # 3, Suhrawardy Ave, Baridhara Diplomatic Zone, Dhaka 1212",
+                "phone":"01730 399 373-83",
+                "web":"citymeadbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.56879512990947, 23.80941216771009]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":14,
+                "name":"Purbachal Green Land Town",
+                "low_price":"6.5",
+                "high_price":"-",
+                "distance_km":"535",
+                "distance_from":"Kanchan Bridge",
+                "address":"99, Amban Complex, Level-14, Bir Uttam A.K. Khandaker Road, Mohakhali, C/A, Dhaka-1212",
+                "phone":"01401 166 005",
+                "web":"https://greenlandtownbd.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.59859747624914, 23.810247000319542]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":15,
+                "name":"Purbachal American City",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"1.5",
+                "distance_from":"Kanchan Bridge",
+                "address":"House-77, Sohrawardi Avenue, Baridhara Diplomatic Zone, Dhaka-1212",
+                "phone":"01313 767 706",
+                "web":"http://www.usbassets.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.56246345325346, 23.831748669617006]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":16,
+                "name":"Homeland Purbachal City ",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"3.5",
+                "distance_from":"Kanchan Bridge",
+                "address":"বাড়ী-৪৬ (দ্বিতীয় তলা), রোড-১৩, নিকুঞ্জ-২, খিলক্ষেত, ঢাকা।",
+                "phone":"01962 191 919",
+                "web":"https://homelandpurbachalcity.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.57631202826182, 23.85206681959979]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":17,
+                "name":"Bandhan Purbachal City",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"1.7",
+                "distance_from":"Kanchan Bridge",
+                "address":"Huda Apartments, House#59,Flat-G/3(4th Floor), Road - 04, Block- C, Banani, Dhaka-1213",
+                "phone":"01881 016 814 -15",
+                "web":"http://www.bandhanholdingsbd.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.56494948189686, 23.838203286830257]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":18,
+                "name":"পূর্বাচল বেস্টওয়ে সিটি",
+                "low_price":"8",
+                "high_price":"40",
+                "distance_km":"1",
+                "distance_from":"Kanchan Bridge",
+                "address":"-",
+                "phone":"01977 667 766",
+                "web":"https://purbachalbestwaycity.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.55670739908706, 23.83886136576131]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":19,
+                "name":"Swapnobhumi, Bhumi Properties Ltd.",
+                "low_price":"10",
+                "high_price":"-",
+                "distance_km":"4.2",
+                "distance_from":"Kanchan Bridge",
+                "address":"House#328, Road#22, DOHS, Mohakhali, Dhaka-1206, Dhaka.",
+                "phone":"01713 467 840",
+                "web":"http://bhumigroupbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.53526615026232, 23.8720156475047]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":20,
+                "name":"Purbachal Marine City",
+                "low_price":"9",
+                "high_price":"30",
+                "distance_km":"4",
+                "distance_from":"Kanchan Bridge",
+                "address":"House#02, Road #11, Block #F, Banani, Dhaka-1213",
+                "phone":"01841 414 545",
+                "web":"http://www.purbachalmarinecity.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.51998923934852, 23.865658267914633]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":21,
+                "name":"Purbachal Prime City",
+                "low_price":"6",
+                "high_price":"10",
+                "distance_km":"8",
+                "distance_from":"Kanchan Bridge",
+                "address":"Jabbar Tower, House# 42 (12th & 15th Floor), Road# 135, Gulshan-1, Dhaka-1212",
+                "phone":"01841 414 545",
+                "web":"https://www.primeassetdl.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.62348518871976, 23.859338224337407]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":22,
+                "name":"Redeem Purbachal City",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"5.5",
+                "distance_from":"Kanchan Bridge",
+                "address":"H:133, Road : # 04, Block :# A, Banani, Dhaka-1207",
+                "phone":"01750 098 971",
+                "web":"https://www.rpclbd.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.5359292631378, 23.880053698709105]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":23,
+                "name":"Purbachal Asian Town - Asian Duplex Town",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"4.5",
+                "distance_from":"Kanchan Bridge",
+                "address":"Holding # 41 (Level-3 & 4), Road # 7,Block # F, Banani, Dhaka-1213",
+                "phone":"01885 333 555",
+                "web":"https://www.asiantownbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.57234848354655, 23.799839140479506]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":24,
+                "name":"Eurostar model town",
+                "low_price":"7",
+                "high_price":"12",
+                "distance_km":"4",
+                "distance_from":"Kanchan Bridge",
+                "address":"28/A-1 (2nd Floor), West Main Road Old D.O.H.S, Banani, Dhaka-1206",
+                "phone":"01777 740 800",
+                "web":"https://www.asiantownbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.56943908783074, 23.80615643268371]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":25,
+                "name":"R C Rivery Village",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"1.2",
+                "distance_from":"Kanchan Bridge",
+                "address":"House# 05, Flat# C-4 & C-5, Road# 21, Gulshan- 1, Dhaka- 1212",
+                "phone":"01713 858 608",
+                "web":"https://www.rcgcbd.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.54017505064571, 23.816673332511446]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":26,
+                "name":"Probashi Polli",
+                "low_price":"-",
+                "high_price":"-",
+                "distance_km":"7",
+                "distance_from":"Kanchan Bridge",
+                "address":"28 & 30, Ahmed Tower, 28 & 30 Kemal Ataturk Avenue, Banani, Dhaka-1213",
+                "phone":"-",
+                "web":"http://www.probashipalligroup.com/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.61322808161681, 23.83386960152567]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":500000000,
+                "name":"Shuborno Bhumi - Partex",
+                "low_price":"n/a",
+                "high_price":"n/a",
+                "distance_km":"10",
+                "distance_from":"Kanchan Bridge",
+                "address":"186 Tejgaon I/A 1208 Dhaka, Dhaka Division, Bangladesh",
+                "phone":"01777 763 733",
+                "web":"http://shubornobhumi.com"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[90.639759,23.8617118]
+            }
+        }
+  ]
+}
